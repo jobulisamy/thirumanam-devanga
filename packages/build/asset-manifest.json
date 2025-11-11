@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thirumanam-devanga/static/css/main.cf890fdb.css",
+    "main.js": "/thirumanam-devanga/static/js/main.52f6ae30.js",
+    "static/js/453.8df6bb73.chunk.js": "/thirumanam-devanga/static/js/453.8df6bb73.chunk.js",
+    "index.html": "/thirumanam-devanga/index.html",
+    "main.cf890fdb.css.map": "/thirumanam-devanga/static/css/main.cf890fdb.css.map",
+    "main.52f6ae30.js.map": "/thirumanam-devanga/static/js/main.52f6ae30.js.map",
+    "453.8df6bb73.chunk.js.map": "/thirumanam-devanga/static/js/453.8df6bb73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.52f6ae30.js"
+  ]
+}
