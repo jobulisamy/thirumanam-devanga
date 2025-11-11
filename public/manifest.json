@@ -1,0 +1,25 @@
+{
+  "short_name": "Sri Chaudeswari Matrimony",
+  "name": "Sri Chaudeswari Amman Narpani Mandram - Matrimony Service",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "sri-chaudeswari-amman.jpeg",
+      "type": "image/jpeg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "sri-chaudeswari-amman.jpeg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#eff6ff"
+}
